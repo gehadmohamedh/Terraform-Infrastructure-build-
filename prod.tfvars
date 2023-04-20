@@ -1,0 +1,8 @@
+VPC_CIDR  = "172.0.0.0/16"
+PUBLIC_SUB_CIDR  ="172.0.1.0/24"
+PRIVATE_SUB_CIDR  ="172.0.2.0/24"
+PRIVATE2_SUB_CIDR  ="172.0.3.0/24"
+AZ  = "eu-central-1a"
+AZ2  = "us-east-1b"
+INSTANCE_AMI  = "ami-069aabeee6f53e7bf"
+INSTANCE_TYPE  = "t2.micro"
